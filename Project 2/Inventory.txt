@@ -1,0 +1,32 @@
+Soup Di Giorno
+12
+Tiramisu
+12
+Margherita
+12
+Wedge Salad
+16
+Cheesecake
+13
+Chicken Alfredo
+7
+Cannoli
+11
+House Salad
+15
+Spaghetti and Meatballs
+4
+Penne Puttanesca
+9
+Tomato Basil
+11
+Caesar Salad
+16
+Four Cheese Ravioli
+12
+Tony's Meat Special
+5
+Minestrone
+18
+Pepperoni
+9
